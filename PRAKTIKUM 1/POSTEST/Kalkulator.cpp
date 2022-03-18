@@ -21,7 +21,7 @@ int mod(int a, int b){
 int main(){
 	int bil1, bil2, m;
 	system ("color 74");
-	cout<<"=== PROGRAM KALKULATOR ==="<<endl;
+	cout<<"=== PROGRAM KALKULATOR PRAKTIKUM ALPRO ==="<<endl;
 	cout<<"1. Perkalian"<<endl;
 	cout<<"2. Pembagian"<<endl;
 	cout<<"3. Penjumlahan"<<endl;
