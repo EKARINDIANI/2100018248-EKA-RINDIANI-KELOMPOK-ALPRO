@@ -41,7 +41,7 @@ int main(){
 			cout<<"Masukkan Bilangan Pertama : "; cin>>bil1;
 			cout<<"Masukkan Bilangan Kedua   : "; cin>>bil2;
 			cout<<"\n---------------------"<<endl;
-			cout<<"Hasil dari "<<bil1<<" - "<<bil2<<" = "<<kurang(bil1,bil2);
+			cout<<"Hasil dari "<<bil1<<" / "<<bil2<<" = "<<bagi(bil1,bil2);
 			cout<<"\n---------------------"<<endl;
 			break;
 		case 3:
@@ -55,7 +55,7 @@ int main(){
 			cout<<"Masukkan Bilangan Pertama : "; cin>>bil1;
 			cout<<"Masukkan Bilangan Kedua   : "; cin>>bil2;
 			cout<<"\n---------------------"<<endl;
-			cout<<"Hasil dari "<<bil1<<" / "<<bil2<<" = "<<bagi(bil1,bil2);
+			cout<<"Hasil dari "<<bil1<<" - "<<bil2<<" = "<<kurang(bil1,bil2);
 			cout<<"\n---------------------"<<endl;
 			break;
 		case 5:
