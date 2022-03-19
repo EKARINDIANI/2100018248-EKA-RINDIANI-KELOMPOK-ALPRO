@@ -1,3 +1,7 @@
+// Kelompok : Chandra Rahmad Irfansyah (237)
+//            Eka Rindiani (248)
+//            Rifka Atmajati (260)
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
